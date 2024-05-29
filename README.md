@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for your GitHub project using Amazon Rekognition to create an image label detector from images stored in S3:
-
----
 
 # Image Label Detector using Amazon Rekognition
 
